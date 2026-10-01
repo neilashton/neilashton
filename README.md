@@ -1,10 +1,10 @@
 # Neil Ashton
 
-I am a Distinguished Engineer at NVIDIA, working at the intersection of
+I am Vice President, Computational Engineering at Mistral, working at the intersection of
 computational engineering and artificial intelligence. My research spans
 high-fidelity computational fluid dynamics, scientific machine learning,
 open datasets, foundation models for physical systems, and reliable agentic
-systems for engineering design and analysis.
+systems for engineering design and analysis. Previously, I was a Distinguished Engineer at NVIDIA.
 
 ## Selected public work
 
